@@ -1,5 +1,10 @@
-# video-parsing
-VIP video parsing Google extension
+# 视频解析
+VIP视频解析谷歌插件
+# 下载  
+
+1.源码下载：直接克隆整个项目即可  
+
+2.成品下载：只下载成品目录下的video-parsing.crx即可  
 
 #支持网站  
 ---
