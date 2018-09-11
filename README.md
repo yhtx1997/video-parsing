@@ -6,10 +6,6 @@ VIP视频解析谷歌插件
 
 克隆地址：https://github.com/yhtx1997/video-parsing.git
 
-2.成品下载：只下载成品目录下的video-parsing.crx即可  
-
-点击下载：https://raw.githubusercontent.com/yhtx1997/video-parsing/master/%E6%88%90%E5%93%81/video-parsing.crx  
-
 #支持网站  
 ---
 1.http://www.le.com/  
@@ -30,9 +26,8 @@ VIP视频解析谷歌插件
 
 #使用方法  
 ---
-1.添加到谷歌浏览器  
-
-2.在要解析的页面点击红色天蝎图标或者右键空白处点击解析  
+1.打开 Chrome， 转到扩展程序页面， 找到右上角的“开发者模式”，勾选；
+2. 点击第二行的“加载已解压的扩展程序”,选择刚刚克隆下来的文件夹，点击确定；
 
 #添加方法  
 ---
