@@ -1,0 +1,47 @@
+{
+    "manifest_version": 2,
+
+    "name": "解析",
+    "description": "视频解析",
+    "version": "1.0",
+
+    "icons": {
+        "16": "images/logo_16.png",
+        "64": "images/logo_64.png",
+        "128": "images/logo_128.png"
+    },
+    "background": {
+        "scripts": [
+            "module/jquery.js",
+            "background.js"
+        ]
+    },
+    "content_scripts": [{
+        "matches": ["<all_urls>"],
+        "js": [
+            "module/jquery.js",
+            "js/content.js"
+        ],
+        "run_at": "document_start"
+    }],
+
+    "permissions": [
+        "tabs",
+        "contextMenus",
+        "proxy",
+        "notifications",
+        "webRequest",
+        "webRequestBlocking",
+        "storage",
+        "http://*/*",
+        "https://*/*"
+    ],
+    "browser_action": {
+        "default_icon": "images/logo_64.png"
+    },
+    "web_accessible_resources": [
+        "/css/*",
+        "/images/*"
+    ],
+    "homepage_url": "https://github.com/yhtx1997"
+}
