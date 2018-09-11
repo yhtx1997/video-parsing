@@ -4,8 +4,12 @@ VIP视频解析谷歌插件
 
 1.源码下载：直接克隆整个项目即可  
 
+克隆地址：https://github.com/yhtx1997/video-parsing.git
+
 2.成品下载：只下载成品目录下的video-parsing.crx即可  
-点击下载：https://raw.githubusercontent.com/yhtx1997/video-parsing/master/%E6%88%90%E5%93%81/video-parsing.crx
+
+点击下载：https://raw.githubusercontent.com/yhtx1997/video-parsing/master/%E6%88%90%E5%93%81/video-parsing.crx  
+
 #支持网站  
 ---
 1.http://www.le.com/  
