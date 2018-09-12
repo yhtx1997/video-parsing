@@ -4,7 +4,8 @@ VIP视频解析谷歌插件
 
 1.源码下载：直接克隆整个项目即可  
 
-克隆地址：https://github.com/yhtx1997/video-parsing.git
+克隆地址：https://github.com/yhtx1997/video-parsing.git  
+压缩包下载地址: https://codeload.github.com/yhtx1997/video-parsing/zip/master  
 
 #支持网站  
 ---
@@ -27,7 +28,7 @@ VIP视频解析谷歌插件
 #使用方法  
 ---
 1.打开 Chrome， 转到扩展程序页面， 找到右上角的“开发者模式”，勾选；  
-2. 点击第二行的“加载已解压的扩展程序”,选择刚刚克隆下来的文件夹，点击确定；
+2. 点击第二行的“加载已解压的扩展程序”,选择刚刚克隆下来的文件夹,或者下载下来已解压的压缩包文件夹，点击确定；
 
 #更新记录  
 ---
